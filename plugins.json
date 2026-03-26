@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-import-glob",
+    "description": "to inline @imports, with support for glob patterns.",
+    "author": "danielbayley",
+    "url": "https://github.com/danielbayley/postcss-import-glob",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
